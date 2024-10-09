@@ -74,8 +74,8 @@ end
 Nd_temp = 2 * Nd;
 
 for i = Nd + 1 : Nd_temp
-    A{i} = A{i - Nd};
-    B{i} = B{i - Nd};
+    A{i} = -A{i - Nd};
+    B{i} = -B{i - Nd};
     C{i} = C{i - Nd};
 end
 
