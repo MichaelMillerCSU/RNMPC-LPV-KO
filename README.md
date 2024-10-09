@@ -3,4 +3,4 @@
 ### The folder with 'Quasi' contains the Van der Pol system and Duffing system applied with the Quasi-Min-Max K-RMPC.
 
 
-#Erratum: VDP2.m is the simulation file of CDC 2024 version, and the figure 1(b) is obtained by mistakes such that the negative sign was missing out. However, the missing negative sign DO NOT influence the performance of the control signal, since the negative sign would be canceled in this equality : $P - (A + BF)^{T}P(A+BF) = P - (-A - BF)^{T}P(- A - BF) \ge Q + F^{T}RF$.
+#Erratum: VDP2.m is the simulation file of CDC2024-version paper, and the figure 1(b) is obtained by mistakes such that the negative sign was missing out in the newly commited code. However, the missing negative sign DO NOT influence the performance of the control signal, since the negative sign would be canceled in this equality : $P - (A + BF)^{T}P(A+BF) = P - (-A - BF)^{T}P(- A - BF) \ge Q + F^{T}RF$.
