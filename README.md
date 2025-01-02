@@ -2,6 +2,7 @@
 ### The file VDP.m, Duffing.m and Normal_Oscillator are corresponding to the different system with Min-Max K-RMPC. The function of the dynamics should be changed if running KMPC.m.
 ### The folder with 'Quasi' contains the Van der Pol system and Duffing system applied with the Quasi-Min-Max K-RMPC.
 
+---
 
 # Corrigendum  
 **Correction to Fig. 1(b) in the Paper**  
