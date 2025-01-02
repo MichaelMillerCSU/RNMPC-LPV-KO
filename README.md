@@ -16,7 +16,7 @@
 
 ## Details of the Correction  
 This is a correction to **Fig. 1(b)** in the above-mentioned paper.  
-[The reason for this correction is that, due to a typo in the source code, the newly added vertices were not flipped. As a result, vertices 3 and 4 were identical to vertices 1 and 2. The corrected figure reflects the validation results after flipping vertices 3 and 4 by adding a negative sign, leading to improved performance.It is worth noting that whether the vertices are flipped or not does not affect the solution of the controller, as the negative sign is directly eliminated in the LMI formulation.]
+[The reason for this correction is that, due to a typo in the source code, the newly added vertices were not reversed. As a result, vertices 3 and 4 were identical to vertices 1 and 2. The corrected figure reflects the validation results after flipping vertices 3 and 4 by adding a negative sign, leading to improved performance.It is worth noting that whether the vertices are flipped or not does not affect the solution of the controller, as the negative sign is directly eliminated in the LMI formulation.]
 
 
 ---
