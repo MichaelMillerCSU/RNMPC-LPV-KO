@@ -1,4 +1,4 @@
-## There are 2 main examples: the Van der Pol system and Duffing system are shown in the paper, and an addtional example of the normal oscillator system.
+### There are 2 main examples: the Van der Pol system and Duffing system are shown in the paper, and an addtional example of the normal oscillator system.
 ### The file VDP.m, Duffing.m and Normal_Oscillator are corresponding to the different system with Min-Max K-RMPC. The function of the dynamics should be changed if running KMPC.m.
 ### The folder with 'Quasi' contains the Van der Pol system and Duffing system applied with the Quasi-Min-Max K-RMPC.
 
@@ -23,3 +23,8 @@ This is a correction to **Fig. 1(b)** in the above-mentioned paper.
 ---
 
 Thank you for your understanding.
+
+### Reference paper:
+### "Robust Nonlinear Model Predictive Control Based on the LPV System with Polytopic Uncertainty Identified Using Koopman Operator"*, 
+### "Data‐Driven Modeling With Polytopic Uncertainty and Nonlinear Robust Model Predictive Control Design Using Koopman Operator", International Journal of Robust and Nonlinear Control
+
