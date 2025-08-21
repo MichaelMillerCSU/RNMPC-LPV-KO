@@ -1,6 +1,6 @@
 ### Reference paper:
-### "Robust Nonlinear Model Predictive Control Based on the LPV System with Polytopic Uncertainty Identified Using Koopman Operator"*, CDC2024
-### "Data‐Driven Modeling With Polytopic Uncertainty and Nonlinear Robust Model Predictive Control Design Using Koopman Operator", International Journal of Robust and Nonlinear Control
+### Zhong Chen, Xiaofang Chen*, Lihui Cen, Weihua Gui, "Robust Nonlinear Model Predictive Control based on the Polytopic LPV System Identified Using Koopman Operator". 2024 63rd IEEE Conference on Decision and Control (CDC).
+### Zhong Chen, Lihui Cen, Xiaofang Chen, Yongfang Xie, Weihua Gui,"Data‐Driven Modeling With Polytopic Uncertainty and Nonlinear Robust Model Predictive Control Design Using Koopman Operator". International Journal of Robust and Nonlinear Control. 
 
 ## Main Content:
 
